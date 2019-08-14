@@ -20,6 +20,8 @@ npm install barelog --save
 
 ## Usage & Output Example
 
+This code...
+
 ```js
 const log = require('barelog')
 
@@ -27,7 +29,7 @@ log('Staying busy. Getting 💩 done.')
 log('You like printf format? %s got it 🎉', 'You')
 ```
 
-## Output
+...produces this output
 
 ```
 [2019-08-14T01:47:45.896Z] Staying busy. Getting 💩 done.
